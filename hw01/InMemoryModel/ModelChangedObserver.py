@@ -1,0 +1,2 @@
+class ModelChangedObserver:
+    pass
