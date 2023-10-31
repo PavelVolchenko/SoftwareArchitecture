@@ -1,10 +1,10 @@
 package SRP;
 
-public class ClalucateSalary {
+public class CalculateSalary {
     int baseSalary;
     int valueTime;
 
-    public ClalucateSalary(int baseSalary, int valueTime) {
+    public CalculateSalary(int baseSalary, int valueTime) {
         this.baseSalary = baseSalary;
         this.valueTime = valueTime;
     }
