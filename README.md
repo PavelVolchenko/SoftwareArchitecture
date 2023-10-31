@@ -11,3 +11,5 @@ ___
 ___
 ![LSP.png](hw03/LSP/LSP.png)
 ___
+![OCP.png](hw03/OCP/OCP.png)
+___
