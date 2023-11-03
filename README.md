@@ -14,3 +14,5 @@ ___
 ![OCP.png](hw03/OCP/OCP.png)
 ___
 ![SRP.png](hw03/SRP/SRP.png)
+## Задание 4
+![UML.png](hw04/UML.png)
