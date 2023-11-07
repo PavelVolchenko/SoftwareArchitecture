@@ -16,3 +16,5 @@ ___
 ![SRP.png](hw03/SRP/SRP.png)
 ## Задание 4
 ![UML.png](hw04/UML.png)
+## Задание 5
+![UML.png](hw05/UML.png)
