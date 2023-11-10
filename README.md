@@ -18,3 +18,5 @@ ___
 ![UML.png](hw04/UML.png)
 ## Задание 5
 ![UML.png](hw05/UML.png)
+## Задание 6
+![USE-CASE.png](hw06/USE-CASE.png)
