@@ -1,10 +1,9 @@
-from ..interface import iCustomer
-from ..model import User
+from hw04.interface.iCustomer import iCustomer
 
 
 class Customer(iCustomer):
-    def __init__(self):
-        self.customer = User
+    def __init__(self, user):
+        self.customer = user
 
     def get_selected_tickets(self):
         pass
@@ -17,3 +16,4 @@ class Customer(iCustomer):
 
     def search_ticket(self, date, route):
         pass
+
