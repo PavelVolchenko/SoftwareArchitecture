@@ -5,8 +5,7 @@ class TicketProvider:
 
     @staticmethod
     def get_tickets():
-        tickets = ['1234', '12342']
-        return tickets
+        pass
 
     def update_ticket(self, route):
         pass

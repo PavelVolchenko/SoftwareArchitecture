@@ -15,5 +15,9 @@ class Customer(iCustomer):
         pass
 
     def search_ticket(self, date, route):
-        pass
-
+        tickets = {
+            1: ["#1234-1234", "#4321-4321"],
+            2: ["#0987-0987", "#7890-7890"],
+            3: ["#5555-5555", "#6666-6666"],
+        }
+        return tickets.get(route)
