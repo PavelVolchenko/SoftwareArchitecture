@@ -20,3 +20,4 @@ ___
 ![UML.png](hw05/UML.png)
 ## Задание 6
 ![USE-CASE.png](hw06/USE-CASE.png)
+![ERD.png](hw06/ERD.png)
