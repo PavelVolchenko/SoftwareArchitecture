@@ -23,7 +23,7 @@ ___
 ![ERD.png](hw06/ERD.png)
 ## Задание 10
 ![robosos-mobile.PNG](hw10/a/robosos-mobile.PNG)
-![DDD for robots.PNG](hw10/b/DDD for robots.PNG)
+![DDD for robots.PNG](hw10/b/DDD-for-robots.PNG)
 ![use-case.PNG](hw10/c/use-case.PNG)
 ![swagger.PNG](hw10/d/swagger.PNG)
 ![swagger2.PNG](hw10/d/swagger2.PNG)
