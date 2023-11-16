@@ -21,3 +21,12 @@ ___
 ## Задание 6
 ![USE-CASE.png](hw06/USE-CASE.png)
 ![ERD.png](hw06/ERD.png)
+## Задание 10
+![robosos-mobile.PNG](hw10/a/robosos-mobile.PNG)
+![DDD for robots.PNG](hw10/b/DDD for robots.PNG)
+![use-case.PNG](hw10/c/use-case.PNG)
+![swagger.PNG](hw10/d/swagger.PNG)
+![swagger2.PNG](hw10/d/swagger2.PNG)
+![BFF.PNG](hw10/e/BFF.PNG)
+![cache.PNG](hw10/f/cache.PNG)
+![robo-erd.PNG](hw10/g/robo-erd.PNG)
