@@ -32,6 +32,7 @@ ___
 ## Задание 8
 ![UML](hw08/UML.png)
 ![ERD](hw08/ERD.png)
+![UX-UI](hw08/UX-UI.png)
 
 
 ## Задание 10
