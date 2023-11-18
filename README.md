@@ -16,14 +16,19 @@ ___
 ![SRP](hw03/SRP/SRP.png)
 ## Задание 4
 ![UML](hw04/UML.png)
+
 ## Задание 5
 ![UML](hw05/UML.png)
+
 ## Задание 6
 ![USE-CASE](hw06/USE-CASE.png)
 ![ERD](hw06/ERD.png)
+
 ## Задание 7
 ![ERD](hw07/ERD.jpg)
 ![UML](hw07/UML.png)
+![UX-UI](hw07/UX-UI.png)
+
 ## Задание 10
 ![robosos-mobile](hw10/a/robosos-mobile.PNG)
 ![DDD for robots](hw10/b/DDD-for-robots.PNG)
