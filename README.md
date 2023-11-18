@@ -31,6 +31,8 @@ ___
 
 ## Задание 8
 ![UML](hw08/UML.png)
+![ERD](hw08/ERD.png)
+
 
 ## Задание 10
 ![robosos-mobile](hw10/a/robosos-mobile.PNG)
