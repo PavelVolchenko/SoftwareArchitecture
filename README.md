@@ -29,6 +29,9 @@ ___
 ![UML](hw07/UML.png)
 ![UX-UI](hw07/UX-UI.png)
 
+## Задание 8
+![UML](hw08/UML.png)
+
 ## Задание 10
 ![robosos-mobile](hw10/a/robosos-mobile.PNG)
 ![DDD for robots](hw10/b/DDD-for-robots.PNG)
