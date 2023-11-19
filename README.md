@@ -2,7 +2,7 @@
 На основе диаграммы написать классы и конструкторы, без реализации методов.
 
 ![hw01](hw01/hw01.png)
-
+___
 ## Задание 3
 С помощью UML диаграммы описать классы приложения.
 ![DIP](hw03/DIP/DIP.png)
@@ -16,26 +16,25 @@ ___
 ![SRP](hw03/SRP/SRP.png)
 ## Задание 4
 ![UML](hw04/UML.png)
-
+___
 ## Задание 5
 ![UML](hw05/UML.png)
-
+___
 ## Задание 6
 ![USE-CASE](hw06/USE-CASE.png)
 ![ERD](hw06/ERD.png)
-
+___
 ## Задание 7
 ![ERD](hw07/ERD.jpg)
 ![UML](hw07/UML.png)
 ![UX-UI](hw07/UX-UI.png)
-
+___
 ## Задание 8
 ![UML](hw08/UML.png)
 ![ERD](hw08/ERD.png)
 ![UX-UI](hw08/UX-UI.png)
 ![FLOWCHART](hw08/FLOWCHART.png)
-
-
+___
 ## Задание 10
 ![robosos-mobile](hw10/a/robosos-mobile.PNG)
 ![DDD for robots](hw10/b/DDD-for-robots.PNG)
