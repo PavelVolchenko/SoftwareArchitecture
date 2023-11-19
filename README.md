@@ -33,6 +33,7 @@ ___
 ![UML](hw08/UML.png)
 ![ERD](hw08/ERD.png)
 ![UX-UI](hw08/UX-UI.png)
+![FLOWCHART](hw08/FLOWCHART.png)
 
 
 ## Задание 10
