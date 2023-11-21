@@ -42,7 +42,18 @@ ___
 
 [//]: # (![swagger]&#40;hw10/d/swagger.PNG&#41;)
 [//]: # (![swagger2]&#40;hw10/d/swagger2.PNG&#41;)
-
 ![BFF](hw10/e/BFF.PNG)
 ![cache](hw10/f/cache.PNG)
 ![robo-erd](hw10/g/robo-erd.PNG)
+___
+## Задание 11
+![DDD for robots](hw11/h/DDD-for-robots.PNG)
+![BFF](hw11/i/BFF.PNG)
+
+[//]: # (![swagger]&#40;hw11/j/swagger.PNG&#41;)
+[//]: # (![swagger2]&#40;hw11/j/swagger2.PNG&#41;)
+![robo-erd](hw11/k/robo-erd.PNG)
+![metrics](hw11/l/metrics.PNG)
+___
+## Задание 12
+![POSTMAN](hw12/Postman.PNG)
